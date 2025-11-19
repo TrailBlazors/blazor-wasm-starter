@@ -4,7 +4,7 @@
 
 Build client-side web applications that run entirely in the browser with C# and .NET 9. No server required after initial download — perfect for PWAs, offline-capable apps, and static hosting.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/TEMPLATE_ID)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/LMob5c?referralCode=Ce0gB7)
 
 ## ✨ Features
 
